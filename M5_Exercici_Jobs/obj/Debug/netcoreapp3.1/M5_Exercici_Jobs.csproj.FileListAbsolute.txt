@@ -1,0 +1,13 @@
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\bin\Debug\netcoreapp3.1\M5_Exercici_Jobs.exe
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\bin\Debug\netcoreapp3.1\M5_Exercici_Jobs.deps.json
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\bin\Debug\netcoreapp3.1\M5_Exercici_Jobs.runtimeconfig.json
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\bin\Debug\netcoreapp3.1\M5_Exercici_Jobs.runtimeconfig.dev.json
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\bin\Debug\netcoreapp3.1\M5_Exercici_Jobs.dll
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\bin\Debug\netcoreapp3.1\M5_Exercici_Jobs.pdb
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\obj\Debug\netcoreapp3.1\M5_Exercici_Jobs.csprojAssemblyReference.cache
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\obj\Debug\netcoreapp3.1\M5_Exercici_Jobs.AssemblyInfoInputs.cache
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\obj\Debug\netcoreapp3.1\M5_Exercici_Jobs.AssemblyInfo.cs
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\obj\Debug\netcoreapp3.1\M5_Exercici_Jobs.csproj.CoreCompileInputs.cache
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\obj\Debug\netcoreapp3.1\M5_Exercici_Jobs.dll
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\obj\Debug\netcoreapp3.1\M5_Exercici_Jobs.pdb
+C:\Users\viiksen\Documents\curso NET\M5_Execici_Jobs\M5_Exercici_Jobs\M5_Exercici_Jobs\obj\Debug\netcoreapp3.1\M5_Exercici_Jobs.genruntimeconfig.cache
