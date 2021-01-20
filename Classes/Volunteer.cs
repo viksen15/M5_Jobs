@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace M5_JOBS {
     class Volunteer : Empleado {
+        
         public Volunteer(double sueldoMensual) {
             try {
                 comprobarSueldo(sueldoMensual);
 
-                SueldoMensual = sueldoMensual;
+                SueldoBase = sueldoMensual;
             } catch (ArgumentOutOfRangeException ex) {
                 Console.WriteLine(ex.Message);
             }

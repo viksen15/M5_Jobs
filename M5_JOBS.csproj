@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Boss.cs" />
-    <Compile Include="Classes\Employee.cs" />
+    <Compile Include="Classes\Junior.cs" />
     <Compile Include="Classes\Manager.cs" />
     <Compile Include="Classes\Mid.cs" />
     <Compile Include="Classes\Senior.cs" />

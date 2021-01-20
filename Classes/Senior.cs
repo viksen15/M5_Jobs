@@ -10,12 +10,16 @@ namespace M5_JOBS {
             try {
                 comprobarSueldo(sueldoMensual);
 
-                SueldoMensual = sueldoMensual;
+                SueldoBase = sueldoMensual;
             } catch (ArgumentOutOfRangeException ex) {
                 Console.WriteLine(ex.Message);
             }
 
             Multiplicador = -5;
+            IRPF = 24;
+
+            setSueldoBruto();
+            setSueldoNeto();
         }
 
         private void comprobarSueldo(double sueldo) {

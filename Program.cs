@@ -9,7 +9,7 @@ namespace M5_JOBS {
         static void Main(string[] args) {
             Senior e = new Senior(7000);
 
-            Console.WriteLine("{0}", e.getSueldoNeto());
+            Console.WriteLine("{0}", e.getSueldoMensualBruto());
 
             Console.ReadKey();
         }
