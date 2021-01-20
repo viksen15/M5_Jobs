@@ -46,8 +46,10 @@
     <Compile Include="Classes\Boss.cs" />
     <Compile Include="Classes\Employee.cs" />
     <Compile Include="Classes\Manager.cs" />
+    <Compile Include="Classes\Mid.cs" />
+    <Compile Include="Classes\Senior.cs" />
     <Compile Include="Classes\Volunteer.cs" />
-    <Compile Include="Interfaces\Empleado.cs" />
+    <Compile Include="Classes\Empleado.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

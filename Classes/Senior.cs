@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace M5_JOBS {
-    class Boss : Empleado {        
-        public Boss(double sueldoMensual) {
+    class Senior : Empleado {
+        public Senior(double sueldoMensual) {
             try {
                 comprobarSueldo(sueldoMensual);
 
@@ -15,11 +15,11 @@ namespace M5_JOBS {
                 Console.WriteLine(ex.Message);
             }
 
-            Multiplicador = 50;
+            Multiplicador = -5;
         }
 
         private void comprobarSueldo(double sueldo) {
-            if (sueldo <= 8000) throw new ArgumentOutOfRangeException(nameof(sueldo), "El sueldo debe ser superior a 8000, el sueldo asignado será 0.");
+            if ((sueldo <= 2700) || sueldo >= 4000) throw new ArgumentOutOfRangeException(nameof(sueldo), "El sueldo debe oscilar entre 2700 y 4000, el sueldo asignado será 0.");
         }
     }
 }

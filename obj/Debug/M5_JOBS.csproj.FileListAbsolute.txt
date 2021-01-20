@@ -1,0 +1,7 @@
+C:\Users\Iago\source\repos\igc88\M5_Jobs\bin\Debug\M5_JOBS.exe.config
+C:\Users\Iago\source\repos\igc88\M5_Jobs\bin\Debug\M5_JOBS.exe
+C:\Users\Iago\source\repos\igc88\M5_Jobs\bin\Debug\M5_JOBS.pdb
+C:\Users\Iago\source\repos\igc88\M5_Jobs\obj\Debug\M5_JOBS.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\igc88\M5_Jobs\obj\Debug\M5_JOBS.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\igc88\M5_Jobs\obj\Debug\M5_JOBS.exe
+C:\Users\Iago\source\repos\igc88\M5_Jobs\obj\Debug\M5_JOBS.pdb
